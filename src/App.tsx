@@ -46,7 +46,7 @@ const SKILLS = [
   { name: "Video Production & Editing", level: 75, color: "#ff3b3b" },
   { name: "3D Modelling (Blender)", level: 65, color: "#00f5a0" },
   { name: "Web Development (React / JS)", level: 68, color: "#00d9f5" },
-  { name: "Cocos Creator/ Cocos 2D (Typescript/ C++)", level: 57, color: "#00d9f5" },
+  { name: "Cocos Creator/ Cocos 2D (Typescript/ C++)", level: 57, color: "#00f5a0" },
 ]
 
 const EXPERIENCE = [
