@@ -46,6 +46,7 @@ const SKILLS = [
   { name: "Video Production & Editing", level: 75, color: "#ff3b3b" },
   { name: "3D Modelling (Blender)", level: 65, color: "#00f5a0" },
   { name: "Web Development (React / JS)", level: 68, color: "#00d9f5" },
+  { name: "Cocos Creator/ Cocos 2D (Typescript/ C++)", level: 57, color: "#00d9f5" },
 ]
 
 const EXPERIENCE = [
@@ -124,9 +125,9 @@ const EDUCATION = [
 ]
 
 const STATS = [
-  { label: "Games Shipped", value: "8+" },
-  { label: "Years XP", value: "9+" },
-  { label: "Companies", value: "6+" },
+  { label: "Games Shipped", value: "3+" },
+  { label: "Years XP", value: "6+" },
+  { label: "Companies", value: "4+" },
   { label: "Engines Mastered", value: "3" },
 ]
 
@@ -1021,7 +1022,7 @@ function Contact() {
         className="mt-20 pt-8 text-center font-mono-display text-xs"
         style={{ borderTop: "1px solid #1e2d3d", color: "#1e2d3d" }}
       >
-        PRECIOUS NKWUA © 2026 — ALL RIGHTS RESERVED — BUILT WITH REACT + VITE
+        PRECIOUS NKWUA © 2026 — ALL RIGHTS RESERVED
       </div>
     </section>
   )
