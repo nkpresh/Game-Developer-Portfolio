@@ -880,6 +880,7 @@ function Skills() {
             { name: "Unreal 5", icon: "◆", color: "#00d9f5" },
             { name: "Godot 4", icon: "◉", color: "#a855f7" },
             { name: "Blender", icon: "◎", color: "#ff3b3b" },
+            { name: "Cocos 2D/ Cocos Creator", icon: "*", color: "#00446b" },
           ].map((eng) => (
             <div
               key={eng.name}
