@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a dynamic, animated portfolio tailored for game developers to highlight skills, projects, and professional experience engagingly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
